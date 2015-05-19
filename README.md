@@ -18,10 +18,10 @@ Downloading jersey jars using maven. Open command prompt
 
 Set up Eclipse
 --------------
-Start new Java project
-Add all the jar from previous step to the build path
-Import all source code from src/
-Create web.xml in WebContent/WEB-INF
+- Start new Java project
+- Add all the jar from previous step to the build path
+- Import all source code from src/
+- Create web.xml in WebContent/WEB-INF
 
 Verify output
 -------------
